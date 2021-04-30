@@ -38,7 +38,7 @@ const capabilities1 = {
         visual: true,
         console: true,
         video: true,
-        tunnel: true,
+        //tunnel: true,
         name: 'Test Demo 2210HRLastCommit', // name of the test
         build: 'NodeJS GitHub Actions Build 29-04-2021' // name of the build
 }
